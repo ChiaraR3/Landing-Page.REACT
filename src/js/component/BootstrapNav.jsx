@@ -3,7 +3,7 @@ import React from "react";
 
 const BootstrapNav = () => {
 	return (
-		<nav className="nav">
+		<nav className="nav navbar-dark bg-dark">
 			<span className="navbar-text">Start Bootstraps</span>
 			<ul className="nav justify-content-end">
 				<li className="nav-item active">

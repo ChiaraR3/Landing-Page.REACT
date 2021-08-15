@@ -4,8 +4,11 @@ const BootstrapCards = () => {
 	return (
 		<div className="card-deck">
 			<div className="card">
-				<img variant="top" src="holder.js/100px160" />
-
+				<img
+					className="card-img-top"
+					src=".../100px200/"
+					alt="Card image cap"
+				/>
 				<div className="card-body">
 					<h5 className="card-title">Card title</h5>
 					<p className="card-text">
@@ -21,7 +24,11 @@ const BootstrapCards = () => {
 				</div>
 			</div>
 			<div className="card">
-				<img variant="top" src="holder.js/100px160" />
+				<img
+					className="card-img-top"
+					src=".../100px200/"
+					alt="Card image cap"
+				/>
 				<div className="card-body">
 					<h5 className="card-title">Card title</h5>
 					<p className="card-text">
@@ -36,7 +43,11 @@ const BootstrapCards = () => {
 				</div>
 			</div>
 			<div className="card">
-				<img variant="top" src="holder.js/100px160" />
+				<img
+					className="card-img-top"
+					src=".../100px200/"
+					alt="Card image cap"
+				/>
 				<div className="card-body">
 					<h5 className="card-title">Card title</h5>
 					<p className="card-text">
@@ -53,7 +64,11 @@ const BootstrapCards = () => {
 				</div>
 			</div>
 			<div className="card">
-				<img variant="top" src="holder.js/100px160" />
+				<img
+					className="card-img-top"
+					src=".../100px200/"
+					alt="Card image cap"
+				/>
 				<div className="card-body">
 					<h5 className="card-title">Card title</h5>
 					<p className="card-text">
