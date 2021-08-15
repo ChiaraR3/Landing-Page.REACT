@@ -6,7 +6,7 @@ import BootstrapCards from "./BootstrapCards.jsx";
 
 //create your first component
 const Home = () => {
-	return (<BootstrapNav />, <BootstrapJumbtron />, <BootstrapCards />);
+	return (<BootstrapNav />), (<BootstrapJumbtron />); // (<BootstrapCards />);
 };
 export default Home;
 //ReactDOM.render(<Home />, document.querySelector("#app"));
