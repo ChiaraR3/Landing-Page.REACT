@@ -2,7 +2,7 @@ import React from "react";
 
 const BootstrapFooter = () => {
 	return (
-		<nav className="navbar navbar-light bg-light">
+		<nav className="nav justify-content-center">
 			<a className="navbar-brand" href="#">
 				Bootstrap
 			</a>
