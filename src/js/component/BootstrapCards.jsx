@@ -6,7 +6,7 @@ const BootstrapCards = () => {
 			<div className="card">
 				<img
 					className="card-img-top"
-					src=".../100px200/"
+					src="https://picsum.photos/seed/picsum/200/100"
 					alt="Card image cap"
 				/>
 				<div className="card-body">
@@ -26,7 +26,7 @@ const BootstrapCards = () => {
 			<div className="card">
 				<img
 					className="card-img-top"
-					src=".../100px200/"
+					src="https://picsum.photos/seed/picsum/200/100"
 					alt="Card image cap"
 				/>
 				<div className="card-body">
@@ -45,7 +45,7 @@ const BootstrapCards = () => {
 			<div className="card">
 				<img
 					className="card-img-top"
-					src=".../100px200/"
+					src="https://picsum.photos/seed/picsum/200/100"
 					alt="Card image cap"
 				/>
 				<div className="card-body">
@@ -66,7 +66,7 @@ const BootstrapCards = () => {
 			<div className="card">
 				<img
 					className="card-img-top"
-					src=".../100px200/"
+					src="https://picsum.photos/seed/picsum/200/100"
 					alt="Card image cap"
 				/>
 				<div className="card-body">
